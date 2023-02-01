@@ -1,2 +1,0 @@
-# pokemon
- json con pokemones
